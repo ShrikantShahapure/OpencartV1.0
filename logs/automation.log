@@ -1,0 +1,570 @@
+13:18:49.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:18:49.898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:18:49.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:18:51.099 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:19:13.414 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:19:13.428 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:19:17.088 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:19:17.107 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:19:39.074 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:19:39.085 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:20:01.774 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:30:45.133 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:30:45.144 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:30:45.151 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:30:46.103 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:31:08.188 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:31:08.203 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:31:12.037 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:31:12.060 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:31:33.985 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:31:33.994 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:31:55.567 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:35:27.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:35:27.999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:35:28.003 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:35:28.931 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:35:50.804 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:35:50.815 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:35:53.322 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:35:53.345 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:36:15.109 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:36:15.122 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:36:36.002 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:40:29.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:40:29.702 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:40:29.710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:40:30.476 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:40:52.480 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:40:52.513 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:40:56.335 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:40:56.354 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:41:18.093 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:41:18.110 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:41:39.783 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:41:41.835 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:41:57.543 [main] ERROR testCases.TC003_LoginDDT - Test Failed due to Exception :org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58e8013fb23d4ff47cebab0ff2ae9577, clickElement {id=f.C87A11D48FE344B8A9493E708E7E7341.d.F89475B9A2B473C01E047E82D4726F0B.e.279}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 143.0.7499.42 (24bdc8c48a0c..., userDataDir: C:\Users\Shrikant\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64365}, goog:processID: 19468, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64365/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (58e8013fb23d4ff47cebab0ff2ae9577)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 58e8013fb23d4ff47cebab0ff2ae9577
+13:43:16.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:43:16.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:43:16.342 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:43:17.673 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:43:30.144 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:43:30.161 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:43:33.674 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:43:33.691 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:43:45.280 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+13:43:45.291 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:43:56.581 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:43:58.422 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+13:44:08.530 [main] ERROR testCases.TC003_LoginDDT - Test Failed due to Exception :org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Login']"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b0e2fe5c2a8d20e8b530ecea593e903d, findElement {using=xpath, value=//a[normalize-space()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 143.0.7499.42 (24bdc8c48a0c..., userDataDir: C:\Users\Shrikant\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64402}, goog:processID: 8272, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64402/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b0e2fe5c2a8d20e8b530ecea593e903d
+14:10:27.509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:10:27.527 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:10:27.536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:10:28.610 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:10:41.480 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:10:41.493 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:10:45.521 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:10:45.544 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:10:57.730 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:10:57.736 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:11:09.210 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:11:10.992 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:11:21.196 [main] ERROR testCases.TC003_LoginDDT - Test Failed due to Exception :org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Login']"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2892135f233b34f856061da0c8f55fe, findElement {using=xpath, value=//a[normalize-space()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 143.0.7499.42 (24bdc8c48a0c..., userDataDir: C:\Users\Shrikant\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64489}, goog:processID: 14792, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64489/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2892135f233b34f856061da0c8f55fe
+14:15:54.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:15:54.103 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:15:54.109 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:15:55.066 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:16:17.969 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:16:17.977 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:16:31.519 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:16:31.540 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:16:43.637 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:16:43.655 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:17:04.775 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:17:16.762 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:17:26.990 [main] ERROR testCases.TC003_LoginDDT - Test Failed due to Exception :org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Login']"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d3b75a6ec38569f56c6294870029a4c, findElement {using=xpath, value=//a[normalize-space()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 143.0.7499.42 (24bdc8c48a0c..., userDataDir: C:\Users\Shrikant\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64532}, goog:processID: 21572, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64532/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d3b75a6ec38569f56c6294870029a4c
+14:19:50.405 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:19:50.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:19:50.425 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:19:51.542 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:20:03.641 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:20:03.656 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:20:08.222 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:20:08.243 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:20:19.851 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:20:19.858 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:20:31.174 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:20:33.344 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:20:43.527 [main] ERROR testCases.TC003_LoginDDT - Test Failed due to Exception :org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Login']"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c94bfc8dcc7e2f9f2ab543b405923259, findElement {using=xpath, value=//a[normalize-space()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 143.0.7499.42 (24bdc8c48a0c..., userDataDir: C:\Users\Shrikant\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64574}, goog:processID: 5916, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64574/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c94bfc8dcc7e2f9f2ab543b405923259
+14:27:19.580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:27:19.588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:27:19.593 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:27:20.558 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:27:32.777 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:27:32.788 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:27:35.223 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:27:35.247 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:27:47.109 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:27:47.123 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:27:58.994 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:28:04.268 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:28:07.586 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:32:46.354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:32:46.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:32:46.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:32:47.888 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:32:59.758 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:32:59.772 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:33:02.766 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:33:02.792 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:33:13.853 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:33:13.859 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:33:25.673 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:33:25.678 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:33:28.993 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:33:29.008 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:56:52.343 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:56:52.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:56:52.358 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:56:53.096 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:57:04.981 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:57:04.995 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:57:10.597 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:57:10.616 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:57:23.054 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:57:23.060 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:57:35.993 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:57:35.999 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:57:40.921 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+14:57:40.944 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+14:59:53.392 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:59:53.404 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:59:53.415 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:59:54.601 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:00:06.329 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:00:06.345 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:00:09.199 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:00:09.222 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:00:20.549 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:00:20.556 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:00:32.261 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:00:32.268 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:00:36.115 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:00:36.141 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:01:33.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:33.937 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:01:33.945 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:34.822 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:01:46.933 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:01:46.945 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:01:50.307 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:01:50.335 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:02:01.815 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:02:01.831 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:02:13.783 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:02:13.789 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:02:17.345 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC_003_LoginDDT ******
+15:02:17.355 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+15:02:20.817 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC_003_LoginDDT ******
+17:00:47.397 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+17:00:47.738 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+17:00:48.883 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:00:48.883 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:00:51.754 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+17:00:52.127 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+17:01:02.033 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+17:01:05.563 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+17:09:55.034 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+17:09:57.515 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:19:10.184 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:19:11.460 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:19:12.504 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:19:12.505 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:19:19.103 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:19:19.522 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:19:30.197 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:19:32.764 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:22:32.356 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:22:32.661 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:22:33.464 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:22:33.465 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:22:35.829 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:22:35.899 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:22:52.866 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:22:56.752 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:25:47.343 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:25:47.582 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:25:48.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:25:48.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:25:50.496 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:25:50.562 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:25:57.781 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:26:00.173 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:27:34.622 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:27:34.809 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:27:35.606 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:27:35.606 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:27:37.776 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:27:37.840 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:27:56.644 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:28:03.164 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:34:15.874 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:34:16.331 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:34:17.124 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:34:17.125 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:34:20.129 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:34:20.269 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:34:32.907 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:34:35.998 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:35:38.777 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:35:39.106 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:35:40.402 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:35:40.402 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:35:42.569 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:35:42.634 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:35:50.983 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:35:55.020 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:39:59.026 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:39:59.229 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:40:00.235 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:40:00.236 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:40:08.428 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:40:08.491 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:40:21.593 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:40:24.897 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:43:14.870 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:43:15.067 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:43:16.288 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:43:16.288 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:43:18.383 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:43:18.437 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:43:36.848 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:43:40.676 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:45:00.331 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:45:00.574 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:45:01.786 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:45:01.787 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:45:09.621 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:45:09.687 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:45:20.552 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:45:23.387 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:47:44.203 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+15:47:44.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:47:45.751 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:47:45.751 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:47:47.775 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+15:47:47.839 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+15:48:04.135 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:00:45.138 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:00:48.008 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+16:13:52.431 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+16:13:53.204 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:13:54.304 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:13:54.305 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:13:56.469 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+16:13:56.533 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+16:14:12.275 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:14:15.016 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+16:16:55.045 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\grouping.xml"
+16:16:55.133 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\grouping.xml] otherwise TestNG may fail or not work as expected.
+16:16:55.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\grouping.xml
+
+16:17:08.670 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+16:17:09.291 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:17:10.514 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:17:10.514 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:17:13.055 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+16:17:13.139 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+16:17:25.577 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:17:28.111 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+16:22:07.502 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\grouping.xml"
+16:22:07.526 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\grouping.xml] otherwise TestNG may fail or not work as expected.
+16:22:08.027 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\grouping.xml
+
+16:22:17.126 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+16:22:17.478 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:22:18.390 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:22:18.391 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:22:21.186 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+16:22:21.246 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+16:22:28.741 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:22:31.136 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+16:23:42.247 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\grouping.xml"
+16:23:42.276 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\grouping.xml] otherwise TestNG may fail or not work as expected.
+16:23:42.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\grouping.xml
+
+16:23:51.525 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+16:23:51.801 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:23:52.734 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:23:52.734 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:23:54.891 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+16:23:54.947 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+16:24:07.638 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:24:10.553 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+16:36:55.562 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\grouping.xml"
+16:36:56.436 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\grouping.xml] otherwise TestNG may fail or not work as expected.
+16:36:57.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\grouping.xml
+
+16:37:10.763 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+16:37:11.680 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:37:15.055 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:37:15.056 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:37:17.299 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+16:37:27.165 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:37:29.806 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+12:19:19.624 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+12:19:20.536 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+12:20:01.080 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+12:20:01.105 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+12:22:36.349 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+12:22:36.375 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+12:33:02.311 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+12:33:02.338 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+12:33:02.970 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+12:33:26.834 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+12:33:27.543 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+12:33:28.346 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+12:33:28.346 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:33:31.795 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+12:33:45.234 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+12:33:47.686 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+12:34:59.521 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+12:34:59.552 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+12:35:00.075 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+12:35:33.851 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+12:35:34.137 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+12:35:34.874 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+12:35:34.875 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:35:37.261 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+12:35:37.340 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+12:35:55.653 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+12:35:58.613 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+12:44:57.276 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+12:44:57.309 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+12:44:57.804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+12:45:17.882 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+12:45:18.149 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+12:45:19.849 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+12:45:19.849 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:45:21.170 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+12:45:22.488 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+12:45:47.346 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+12:45:52.136 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+13:02:59.620 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+13:02:59.696 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+13:03:00.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+13:03:26.307 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+13:03:28.665 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+13:03:30.910 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:03:30.910 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:03:36.660 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+13:03:36.924 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+13:03:51.289 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:03:53.954 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+10:55:05.980 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+10:55:06.124 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+10:55:06.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+10:55:30.239 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+10:55:31.340 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+10:55:32.498 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:55:32.498 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+10:55:35.346 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+10:55:35.420 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+10:55:43.746 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+10:55:47.727 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+10:56:48.144 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+10:56:48.172 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+10:56:48.613 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+10:57:00.113 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+10:57:00.313 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+10:57:01.557 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:57:01.558 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+10:57:03.858 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+10:57:03.936 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+10:57:14.393 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+10:57:17.190 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+10:58:13.492 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+10:58:13.526 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+10:58:14.088 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+10:58:22.610 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+10:58:22.827 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+10:58:24.881 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:58:24.882 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+10:58:27.111 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+10:58:27.172 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+10:58:35.109 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+10:58:38.371 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+10:59:35.496 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+10:59:35.525 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+10:59:35.959 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+10:59:44.130 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+10:59:44.353 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+10:59:45.214 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:59:45.214 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+10:59:48.090 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+10:59:48.157 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+10:59:57.008 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+10:59:59.863 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+11:02:46.636 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+11:02:46.661 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+11:02:47.076 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+11:02:55.215 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+11:02:55.540 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+11:02:56.507 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:02:56.507 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+11:02:59.025 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+11:02:59.091 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+11:03:05.711 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+11:03:08.570 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+11:09:08.077 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+11:09:08.105 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+11:09:08.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+11:09:17.084 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+11:09:17.326 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+11:09:18.364 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:09:18.365 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+11:09:20.539 [main] ERROR testCases.TC001_AccountRegistrationTest - Test execution failed
+org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="agree" value="1"> is not clickable at point (860, 458). Other element would receive the click: <li>...</li>
+  (Session info: chrome=144.0.7559.133)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c484c5d3ed5c44b827fc87c3d9044166, clickElement {id=f.11101C68C94D33E90B2FF037BE2C7C27.d.3FA3F9BC8E6D2D606CE8EE9966850A41.e.94}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Shrikant\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59910}, goog:processID: 22532, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 10, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.43.65:4444/ses..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on Windows 10 (c484c5d3ed5c44b827fc87c3d9044166)] -> xpath:  //input[@name='agree']]
+Session ID: c484c5d3ed5c44b827fc87c3d9044166
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy31.click(Unknown Source)
+	at pageObjects.AccountRegistrationPage.setPrivacyPolicy(AccountRegistrationPage.java:65)
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:37)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:819)
+	at org.testng.TestRunner.run(TestRunner.java:619)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+	at org.testng.TestNG.runSuites(TestNG.java:1134)
+	at org.testng.TestNG.run(TestNG.java:1101)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+11:09:29.880 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+11:09:32.344 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+11:10:08.614 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+11:10:08.641 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+11:10:09.098 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation\OpencartV1.0\master.xml
+
+11:10:17.268 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+11:10:17.484 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+11:10:19.281 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:10:19.281 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+11:10:22.889 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+11:10:22.974 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+11:10:28.974 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+11:10:32.677 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+11:23:20.574 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+11:23:20.739 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+11:25:55.669 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation\OpencartV1.0\master.xml"
+11:25:55.706 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Automation\OpencartV1.0\master.xml] otherwise TestNG may fail or not work as expected.
+11:26:11.166 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+11:26:12.121 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+11:26:13.219 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:26:13.219 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+11:26:15.500 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messege
+11:26:15.651 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+11:26:25.088 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+11:26:27.891 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****

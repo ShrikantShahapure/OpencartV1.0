@@ -1,0 +1,12 @@
+E:\Automation\OpencartV1.0\src\test\java\pageObjects\AccountRegistrationPage.java
+E:\Automation\OpencartV1.0\src\test\java\pageObjects\BasePage.java
+E:\Automation\OpencartV1.0\src\test\java\pageObjects\HomePage.java
+E:\Automation\OpencartV1.0\src\test\java\pageObjects\LoginPage.java
+E:\Automation\OpencartV1.0\src\test\java\pageObjects\MyAccountPage.java
+E:\Automation\OpencartV1.0\src\test\java\testBaseUtility\BaseClass.java
+E:\Automation\OpencartV1.0\src\test\java\testCases\TC001_AccountRegistrationTest.java
+E:\Automation\OpencartV1.0\src\test\java\testCases\TC002_LoginTest.java
+E:\Automation\OpencartV1.0\src\test\java\testCases\TC003_LoginDDT.java
+E:\Automation\OpencartV1.0\src\test\java\utilities\DataProviders.java
+E:\Automation\OpencartV1.0\src\test\java\utilities\ExcelUtility.java
+E:\Automation\OpencartV1.0\src\test\java\utilities\ExtentReportManager.java
